@@ -19,8 +19,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ![Project 1 Screenshot](https://i.supaimg.com/0f4540f0-1d78-4833-94c1-5f38aa04f72c.jpg)
 
-[Customers-Analysis-Dashboard] This project presents an interactive Tableau dashboard that analyzes car sales performance across different regions, body styles, and brands for the period from January 2020 to December 2021.
-The dashboard is designed to help stakeholders quickly understand key business trends and make informed decisions..
+[Customers-Analysis-Dashboard] This project showcases a Tableau dashboard designed to analyze customer sales performance over multiple years. It tracks sales trends, profit margins, customer distribution, and highlights key buying patterns by customer and region. This project demonstrates my ability to use Tableau effectively.
 
 
 ## Get in Touch 📬
