@@ -13,6 +13,8 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ![Tableau]
 
+![Statistics]
+
 ## Featured Project 💻
 
 ### [Customers-Analysis-Dashboard]
