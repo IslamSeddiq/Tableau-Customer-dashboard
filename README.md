@@ -2,9 +2,9 @@
 
 ## About Me 🚀
 
-I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or Tableau. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a Junior Data Analyst with a passion for turning raw data into actionable insights. I enjoy working with SQL, Python, and visualization tools like Power BI to solve real-world problems. I have highly growth mindset along with critical thinking and problem solving skills. My goal is to help organizations make data-driven decisions that create meaningful impact.
 
-- 🔭 Working on: Analysis for covid_19_indonesia_time_series 
+- 🔭 Worked on: FIFA 2023 Data Analysis
 - 💻 Programming Languages: Python, SQL
 - 🌍 Human Languages: Arabic(native), English(fluent)
 - 📫 How to reach me: islamseddiq17@gmail.com
