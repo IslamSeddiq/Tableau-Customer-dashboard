@@ -11,9 +11,9 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 
 ## My Skills 🧠
 
-![Tableau]
+**Tableau**
 
-![Statistics]
+**Statistics**
 
 ## About Project 💻
 
